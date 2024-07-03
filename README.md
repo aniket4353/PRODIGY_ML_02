@@ -1,0 +1,1 @@
+This project focuses on grouping customers of a retail store using K-means clustering. By analyzing customer data, the model identifies distinct segments, enabling targeted marketing strategies and personalized customer experiences.
